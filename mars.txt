@@ -1,4 +1,3 @@
-Mercury
-Venus
-Earth
-Mars
+Hello!
+Greetings from Mars!
+Goodbye!
